@@ -1,2 +1,2 @@
 # validations
-JSR 303 Validations training project
+JSR 380 Validations training project
